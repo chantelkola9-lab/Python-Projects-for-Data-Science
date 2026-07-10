@@ -20,10 +20,9 @@ This is a simple, object-oriented Python terminal application that makes everyda
    python calculator.py
 
 * Example Of How It Works:
-Enter first number: 10
-Enter second number: 5
-Enter operation (+, -, *, /): /
-Result: 2.0
-
-Do you want to make another calculation? (yes/no): no
-See you next time!! Don't forget to smile
+1. Enter first number: 10.
+2. Enter second number: 5
+3. Enter operation (+, -, *, /): /
+4. Result: 2.0
+5. Do you want to make another calculation? (yes/no): no
+6. see you next time!! Don't forget to smile
